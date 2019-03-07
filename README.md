@@ -3,4 +3,4 @@
 
 
 
-license:[LICENSE](LICENSE)
+license:[OpenSourceAI License](LICENSE)
